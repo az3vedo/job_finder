@@ -4,7 +4,7 @@ const app        = express();
 const exphbs     = require('express-handlebars');
 const db         = require('./db/connection');
 const bodyParser = require('body-parser');
-const Job        = require('./models/Job');
+const Job        = require('./models/job.js');
 const Sequelize  = require('sequelize');
 const OP         = Sequelize.Op;
 
