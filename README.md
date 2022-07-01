@@ -22,3 +22,6 @@ E para você que é DEV encontrar ótimas oportunidades de trabalho para alavanc
 
   - Adicionar vaga
   ![Adicionar vaga](./doc/img/add_vaga.png)
+
+  - Visualizar vaga
+  ![Visualizar vaga](./doc/img/view_vaga.png)
