@@ -14,3 +14,11 @@ O Job Finder é uma plataforma para divulgar as vagas da sua empresa para ajudar
 E para você que é DEV encontrar ótimas oportunidades de trabalho para alavancar a sua carreira 🚀
 
 ## Screenshots
+  - Página Inicial
+  ![Página Inicial](./doc/img/home_page.png)
+
+  - Lista de vagas
+  ![Lista de vagas](./doc/img/lista_vagas.png)
+
+  - Adicionar vaga
+  ![Adicionar vaga](./doc/img/add_vaga.png)
