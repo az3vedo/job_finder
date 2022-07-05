@@ -11,11 +11,11 @@ Demo: https://jobfinder-az3vedo.netlify.app/
 ![Tecnologias utilizadas-express-js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
-
-
 ## Resumo do projeto
 O Job Finder é uma plataforma para divulgar as vagas da sua empresa para ajudar **VOCÊ** a encontrar o dev ideal.   
 E para você que é DEV encontrar ótimas oportunidades de trabalho para alavancar a sua carreira 🚀
+
+Instruções de execução do projeto [aqui](./doc/exec_instructions.md)
 
 ## Screenshots
   - Página Inicial
