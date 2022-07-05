@@ -4,6 +4,7 @@ Demo: https://jobfinder-az3vedo.netlify.app/
 ### Tecnologias utilizadas
 ![Tecnologias utilizadas-HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tecnologias utilizadas-CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tecnologias utilizadas-node-js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tecnologias utilizadas-handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
 ![Tecnologias utilizadas-sequelize-orm](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Tecnologias utilizadas-javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -13,6 +14,8 @@ Demo: https://jobfinder-az3vedo.netlify.app/
 ## Resumo do projeto
 O Job Finder é uma plataforma para divulgar as vagas da sua empresa para ajudar **VOCÊ** a encontrar o dev ideal.   
 E para você que é DEV encontrar ótimas oportunidades de trabalho para alavancar a sua carreira 🚀
+
+Instruções de execução do projeto [aqui](./doc/exec_instructions.md)
 
 ## Screenshots
   - Página Inicial
