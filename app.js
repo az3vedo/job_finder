@@ -11,7 +11,7 @@ const OP         = Sequelize.Op;
 const PORT       = 3000;
 
 app.listen(PORT, function() {
-  console.log(`App listening port ${PORT}`);
+  console.log(`App listening on http://localhost:${PORT}/`);
 })
 
 //body_parser
@@ -45,7 +45,7 @@ app.get('/', (req, res) => {
   if(!search){
     Job.findAll({order: [
       ['createdAt', 'DESC']
-    ]})  
+    ]})
       .then(jobs =>{
         res.render('index', {
           jobs
@@ -54,10 +54,10 @@ app.get('/', (req, res) => {
       .catch(err => console.log(err));
   } else {
     Job.findAll({
-      where: {title: {[OP.like]: query}}, 
+      where: {title: {[OP.like]: query}},
       order: [
       ['createdAt', 'DESC']
-    ]})  
+    ]})
       .then(jobs =>{
         res.render('index', {
           jobs, search

@@ -4,7 +4,8 @@
   "description": "Portal de vagas de emprego voltados para a área de desenvolvimento de software",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "serve": "node app.js"
   },
   "keywords": [
     "dev",
